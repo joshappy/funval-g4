@@ -1,0 +1,29 @@
+h2{
+    color: brown
+}
+.colegio{
+    color:red
+} 
+#ci{
+    color:blue;
+
+}
+.card{
+    background-color:#033268;
+    color:white;
+}
+#nombre{
+    font-size:  25px;
+}
+#apellido{
+    font-size: 25px;
+}
+#edad{
+    font-size: 15px;
+}
+#correo{
+    color: red;
+    font-size: 20px;
+}
+
+    
